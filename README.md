@@ -1,13 +1,6 @@
-  
+# Application Web de gestion de propriété
 
-Saphir GOBBI, Semih DOYNUK
-
-  
-
----
-
-
-# Sommaire
+## Sommaire
 
 
 - Introduction
@@ -28,7 +21,7 @@ Saphir GOBBI, Semih DOYNUK
 
 ---
 
-# Introduction
+## Introduction
 
   
 
@@ -40,7 +33,7 @@ Nous verrons dans une premier temps les choix architecturaux puis les URL et enf
 
 ---
 
-# Les choix architecturaux
+## Les choix architecturaux
 
   
   
@@ -112,7 +105,7 @@ On a donc utilisé Java Spark en guise de Controleur, qui fait des appels aux cl
 
 ---
 
-# Les liens URL
+## Les liens URL
 
   
 
@@ -175,7 +168,7 @@ On peut accéder aux personnes avec /:id/personne, on peut trouver les habitants
 
   
 
-# Conclusion
+## Conclusion
 
 Ce projet nous a permis de a mettre en œuvre un site se basant sur l'architecture MVC et nous a aidé a mieux comprendre les notions vue en cours.
 
